@@ -42,6 +42,4 @@ public class WebSocketsConfig implements WebSocketMessageBrokerConfigurer {
 
         return false;
     }
-
-
 }
